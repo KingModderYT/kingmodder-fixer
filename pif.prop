@@ -1,0 +1,11 @@
+FINGERPRINT=google/cheetah_beta/cheetah:CANARY/ZP11.260123.011/14822050:user/release-keys
+MANUFACTURER=Google
+MODEL=Pixel 7 Pro
+SECURITY_PATCH=2026-02-05
+spoofBuild=true
+spoofProps=false
+spoofProvider=false
+spoofSignature=false
+spoofVendingBuild=true
+spoofVendingSdk=false
+DEBUG=false
